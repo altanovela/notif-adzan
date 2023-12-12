@@ -8,6 +8,6 @@ services:
       - REMIND_IN_MINUTE=7
       - MILIS_PER_MINUTE=60000
       - SLACK_CHWEB_HOOK=https://hooks.slack.com/services/xxx
-      - MSTEAMS_CHWEB_HOOK=https://gtechdigital.webhook.office.com/webhookb2/5cd1c7e1-d767-4953-8386-8d93530258be@1539dda6-b001-4d26-a5fb-1e0b1d2b5b61/IncomingWebhook/43fd21f3b7fd42b3841171508352928a/2f807571-1648-4335-9ee7-30b3a0958445
+      - MSTEAMS_CHWEB_HOOK=https://gtechdigital.webhook.office.com/webhookb2/xxx
       - LOCATION_COUNTRY=ID
       - LOCATION_CITY=Jakarta
